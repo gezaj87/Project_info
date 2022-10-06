@@ -1,0 +1,2 @@
+# Betartandó fejlesztési folyamat:
+1. Issue létrehozása - Hozz létre egy issue-t. Az issue-ban leírt feladat legyen elég részletesen leírva, hogy bárki elvégezhesse. A leírt feladat mérete maximum 1-2 órás legyen, de lehetőleg kisebb.
