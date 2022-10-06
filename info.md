@@ -5,4 +5,9 @@
 4. **Feladat elvégzésének elkezdése:** A kiválasztott issue ToDo-ból planning vagy in progress-be mozgatása. E nélkül nem kezdhető el feladat. Csak leírt issue végezhető el. Az elszámolásnak ez az alapja.
 5. **Feladat befejezése:** Amikor a kiválasztott feladat elkészült, akkor a következő lépéseket hajtsd végre:
     * *commit* - változtatásokra add ki a commit-ot. , amelynek a szövege minden esetben így kezdődjön: #X, ahol X egyenlő az issue számával. Ezután írj egy rövid leírást is! Issue sorszám belinkeléséről bővebb infó itt:
-    [title](https://www.example.com)
+    [https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls)
+    Példa issue a helyes commit-hoz: [https://github.com/gitjuzer/EGER_2019_2_Lev_A/issues/20](https://github.com/gitjuzer/EGER_2019_2_Lev_A/issues/20)
+    * *Push* - Módosítások feltöltése.
+    * *Done* - Kártya átmozgatása Done oszlopba.
+
+> Megjegyzés: Ne zárd le az issue-t, azt a code review után megtesszük.
