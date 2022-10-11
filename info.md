@@ -12,7 +12,7 @@
 
 > Megjegyzés: Ne zárd le az issue-t, azt a code review után megtesszük.
 
-## II. Git munkafolyamat:
+# II. Git munkafolyamat:
 
 A projekt sikere érdekében, [az itt található](https://nvie.com/posts/a-successful-git-branching-model/), 
 jól bevált munkafolyamat egyszerűsített változatát fogjuk alkalmazni.
@@ -43,3 +43,6 @@ Mit tegyek, ha mégis kihagytam valamit?
 1. Don't Panic :) A commitált módosításaid nem vesznek el, és amíg lokális környezetben dolgozol, másnak sem tudsz gondot okozni.
 2. Ha nem a megfelelő branchben kezdtél el dolgozni, akkor egyszerűen válts át a helyes branchre, és folytasd a munkát! **De a váltás előtt NE COMMIT-OLJ**
 3. Csak akkor commit-olj, amikor biztos vagy abban, hoyg minden a helyén van. Ilyenkor viszont azonnal!!!
+
+## Git Branch Naming Rules and Conventions
+[https://www.youtube.com/watch?v=n0w4oL4bJo8](https://www.youtube.com/watch?v=n0w4oL4bJo8)
